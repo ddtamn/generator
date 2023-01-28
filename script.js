@@ -44,5 +44,5 @@ serta kami ucapkan terima kasih.
 //   )}%0A%0AMerupakan+suatu+kehormatan+dan+kebahagiaan+bagi+kami+apabila+Bapak%2FIbu%2FSaudara%2Fi+berkenan+hadir+memberikan+doa+%26+restu%2C+serta+kami+ucapkan+terima+kasih.%0A%0A%D9%88%D9%8E+%D8%A7%D9%84%D8%B3%D9%91%D9%8E%D9%84%D8%A7%D9%8E%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92+%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F+%D8%A7%D9%84%D9%84%D9%87%D9%90+%D9%88%D9%8E%D8%A8%D9%8E%D8%B1%D9%8E%D9%83%D9%8E%D8%A7%D8%AA%D9%8F%D9%87%D9%8F&type=custom_url&app_absent=0`;
    shareButton.href = `https://api.whatsapp.com/send/?text=https://dinvite.online/kaharfira?to=${convertToSlug(
     e.target.value
-  )}&type=custom_url&app_absent=0`;
+  )}`;
 });
